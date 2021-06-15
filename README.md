@@ -17,7 +17,15 @@ Transparent subrequest-based caching layout for arbitrary nginx locations.
     <tbody>
         <tr>
             <td>1.21.0</td>
-            <td>0.32</td>
+            <td>master (2020.10)</td>
+            <td><ul>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.0-srcache-master</li>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.0-srcache-master-alpine</li>
+            </ul></td>
+        </tr>
+        <tr>
+            <td>1.21.0</td>
+            <td>0.32 (2020.07)</td>
             <td><ul>
                 <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.0-srcache-0.32</li>
                 <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.0-srcache-0.32-alpine</li>
